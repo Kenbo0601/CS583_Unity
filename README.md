@@ -3,9 +3,6 @@
 
 Welcome to my GitHub for my Game Programming Class Projects! 
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-1.0.0-green)
-
 ---
 
 ## Table of Contents
@@ -22,6 +19,9 @@ Apple Picker is a tutorial assignment completed as part of the CS583 course. Thi
 ---
 
 ## Project 2: Breakout 
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-green)
 
 ### Description
 This project is an individual assignment to recreate the classic arcade game **Breakout**. In Breakout, the player controls a paddle at the bottom of the screen to deflect a ball, aiming to break all bricks in the game area without letting the ball fall past the paddle. This game involves real-time physics, collision detection, and score tracking, creating an engaging gameplay experience. Additionally, this game includes unique features, such as side paddles that players can activate with the space key to deflect the ball from the sides. Hitting a special star power-up enlarges the ball, making it easier for players to clear bricks and progress through the game.
